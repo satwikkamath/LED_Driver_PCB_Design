@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project involves designing a PCB to drive four high-power LEDs using the CAT4104 LED driver IC. The PCB supports PWM dimming control provided by an ESP32 microcontroller and is powered by a 28V supply.
+This project involves designing a PCB in KiCAD to drive four high-power LEDs using the CAT4104 LED driver IC. The PCB supports PWM dimming control provided by an ESP32 microcontroller and is powered by a 28V supply.
 
 ## Features
 
