@@ -82,4 +82,4 @@ The schematic of the circuit includes:
 - **LM2596 Datasheet**: [Link to datasheet](https://www.ti.com/lit/ds/symlink/lm2596.pdf)
 - **ESP32 C3 Datasheet**: [Link to datasheet](https://www.espressif.com/en/support/download/documents?category=esp32&field=esp32-c3)
 - **USB Mini Connector**: [Typical Pinout Information](https://en.wikipedia.org/wiki/USB#Mini-USB)
-- **USB to UART Converter**: [CP2102 Datasheet](https://www.silabs.com/documents/public/data-sheets/cp2102.pdf)
+- **CP2102 Datasheet**: [Link to datasheet](https://www.silabs.com/documents/public/data-sheets/cp2102.pdf)
