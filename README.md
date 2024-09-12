@@ -49,9 +49,9 @@ This project involves designing a PCB to drive four high-power LEDs using the CA
   - **D-**: Data line negative.
   - **GND**: Connects to the ground plane.
 
-### 5. **USB to UART Converter**
+### 5. **CP2102 USB to UART Converter**
 
-- **Description**: The USB to UART converter, such as the FTDI FT232 or CP2102, enables communication between the microcontroller (ESP32) and a computer via USB. It converts USB signals to UART (serial) signals for programming and debugging.
+- **Description**: The CP2102 USB to UART converter, enables communication between the microcontroller (ESP32) and a computer via USB. It converts USB signals to UART (serial) signals for programming and debugging.
 - **Pins**:
   - **TX**: Transmit data from the converter to the ESP32.
   - **RX**: Receive data from the ESP32 to the converter.
@@ -82,4 +82,4 @@ The schematic of the circuit includes:
 - **LM2596 Datasheet**: [Link to datasheet](https://www.ti.com/lit/ds/symlink/lm2596.pdf)
 - **ESP32 C3 Datasheet**: [Link to datasheet](https://www.espressif.com/en/support/download/documents?category=esp32&field=esp32-c3)
 - **USB Mini Connector**: [Typical Pinout Information](https://en.wikipedia.org/wiki/USB#Mini-USB)
-- **USB to UART Converter**: [FTDI FT232 Datasheet](https://www.ftdichip.com/FTTech_Docs/FT232R.pdf) or [CP2102 Datasheet](https://www.silabs.com/documents/public/data-sheets/cp2102.pdf)
+- **USB to UART Converter**: [CP2102 Datasheet](https://www.silabs.com/documents/public/data-sheets/cp2102.pdf)
